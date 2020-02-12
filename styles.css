@@ -1,0 +1,118 @@
+.header {
+    text-align: center;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    background-image: url("https://focushempco.com/wp-content/uploads/2019/04/cbd-for-pets-focus-hemp-co-blog-post-featured-image.jpg");
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 100%;
+    
+}
+.title {
+    text-align: center;
+    background-color: rgba(0, 0, 0,.4);
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    /* margin-top: 13%; */
+}
+h1 {
+    text-align: center;
+}
+.blog {
+    background-image: url("https://i.pinimg.com/originals/2d/9f/16/2d9f16c9d81e7da7077cd6a88d6b1ea7.jpg");
+    height: 75%;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    font-family: 'Great Vibes', cursive;
+    margin-top: 5%;
+    /* border-color: black;
+    border-width: 1px;
+    border-style: solid; */
+}
+body {
+    background-image: url("https://media.gettyimages.com/photos/christmas-lights-defocused-background-bokeh-gold-blue-picture-id613518332?b=1&k=6&m=613518332&s=612x612&w=0&h=2LpLo3SDBYEFA3z1AF0sNW25xlyajEpRJqUJPb-AQVA=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name {
+    font-size: 24px;
+    text-align: center;
+    padding-top: 4%;
+    font-family: 'Great Vibes', cursive;
+}
+.end {
+    font-size: 20px;
+    font-family: 'Great Vibes', cursive;
+}
+
+.paragraph {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bar {
+    
+    margin-left: 25%;
+    color: white;
+    font-size: 24px;
+}
+.nav {
+
+    background-color: orange;
+}
+
+.home {
+    margin-left: 2%;
+    color: white;
+    font-size: 24px;
+}
+
+.archive {
+    background-color: rgba(0, 0, 0,.4);
+    width: 15%;
+    float: right;
+    margin-top: 5%;
+    padding-bottom: 80px;
+    color: white;
+}
+
+.videos {
+    margin-top: 5%;
+    background-color: rgba(0, 0, 0,.4);
+    width: 15%;
+    float: left;
+    padding-bottom: 80px;
+    color: white;
+}
+h3 {
+    text-align: center;
+}
+
+a {
+    color: orange;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .home {
+        margin-left: 2%;
+        color: white;
+        font-size: 24px;
+    }
+
+    .bar {
+    
+        margin-left: 7%;
+        color: white;
+        font-size: 24px;
+    }
+
+}
